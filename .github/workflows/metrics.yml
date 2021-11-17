@@ -18,7 +18,7 @@ jobs:
           # Options
           user: thehobbit85
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
