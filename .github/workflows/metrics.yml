@@ -19,6 +19,7 @@ jobs:
           user: thehobbit85
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -54,4 +55,4 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
-          repositories_affiliations: ""
+
