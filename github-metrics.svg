@@ -341,14 +341,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.83955181068475" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="209.83955181068475" y="0" width="99.16988863314303" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="309.00944044382777" y="0" width="82.62784492523005" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.6372853690578" y="0" width="25.286488724692635" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="416.9237740937504" y="0" width="15.318737071144602" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="432.242511164895" y="0" width="12.662755847843224" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="444.90526701273825" y="0" width="7.893345081820384" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.7986120945586" y="0" width="7.2013879054413525" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.83955794163836" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="209.83955794163836" y="0" width="99.16989153062342" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="309.00944947226174" y="0" width="82.6278338994193" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="391.63728337168106" y="0" width="25.286489463496583" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="416.92377283517766" y="0" width="15.31873751871736" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="432.242510353895" y="0" width="12.662756217815273" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="444.9052665717103" y="0" width="7.893345312442936" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.7986118841532" y="0" width="7.201388115846755" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -604,17 +604,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 79.48232951717272%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.54254295532647%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.30363364858138375%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.26831615120274915%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mathematica</span>
-                                <div class="bar" style="width: 0.21403683424589348%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.18914089347079038%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
