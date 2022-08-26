@@ -597,8 +597,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 67.69600962502507%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
+                                <div class="bar" style="width: 67.12006717044501%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                         </div>
                     </section>
@@ -2887,7 +2887,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 724k out of 96m users</span>
+                                    <span class="gh">ranked 725k out of 96m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">40</div>
                                     </div>
